@@ -7,7 +7,7 @@ accounts:
   message: "welcome to eazy bank account related local prod apis"
   contact-details:
     name: "ravali "
-    email: "182b6bd08e310b713e4590863b111bc9a25526815c65994954bdab86c78c5e83
+    email: "{cipher}182b6bd08e310b713e4590863b111bc9a25526815c65994954bdab86c78c5e83
  product-owner"
     mobile: "9874563210 "
   on-call-support:
