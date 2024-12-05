@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to rest apis for cards prod service"
+  contact-details:
+    name: "production"
+    gmail: "production@gmail.com"
+    mobile: "5423652154"
+  on-call-support:
+    -(555-666-777)
+    -(555-666-888)

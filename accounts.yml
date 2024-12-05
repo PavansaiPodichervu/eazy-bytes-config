@@ -1,0 +1,15 @@
+
+
+build:
+    version: "2.0"
+
+
+accounts:
+    message: "welcome to eazy bank account related local  apis"
+    contact-details:
+        name: "ravali "
+        email: "ravali@gmail local-owner"
+        mobile: "9874563210 "
+    on-call-support:
+        -(555-666-777)
+        -(555-666-888)

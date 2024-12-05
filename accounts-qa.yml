@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to eazy bank account related local qa apis"
+  contact-details:
+    name: "hanok"
+    email: "hanok@gmail QA-Lead"
+    mobile: "1234567890"
+  on-call-support:
+    -(555-666-777)
+    -(555-666-888)

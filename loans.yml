@@ -1,0 +1,10 @@
+loans:
+  message: "welcome to rest apis for loans service"
+  contact-details:
+    name: "supraja"
+    gmail: "supraja@gmail.com"
+    mobile: "5423652154"
+  on-call-support:
+    -(555-666-777)
+    -(555-666-888)
+

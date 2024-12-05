@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "welcome to eazy bank cards related local qa apis"
+  contact-details:
+    name: "qa"
+    email: "qa@gmail QA-Lead"
+    mobile: "1234567890"
+  on-call-support:
+    -(555-666-777)
+    -(555-666-888)

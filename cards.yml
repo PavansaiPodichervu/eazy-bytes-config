@@ -1,0 +1,14 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to eazy bank rest apis related to cards"
+  contact-details:
+    name: "pavan sai cards"
+    email: "pavanc@gmail.com"
+    mobile: "1234567890"
+  on-call-support:
+    -(555-666-777)
+    -(555-666-888)
+
