@@ -5,7 +5,7 @@ build:
 accounts:
   message: "welcome to eazy bank account related local qa apis"
   contact-details:
-    name: "hanok"
+    name: "pavan sai"
     email: "hanok@gmail QA-Lead"
     mobile: "1234567890"
   on-call-support:
