@@ -5,7 +5,7 @@ build:
 cards:
   message: "welcome to rest apis for cards prod service"
   contact-details:
-    name: "production"
+    name: "pavan sai"
     gmail: "production@gmail.com"
     mobile: "5423652154"
   on-call-support:
