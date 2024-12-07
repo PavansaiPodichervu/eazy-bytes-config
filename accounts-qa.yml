@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to eazy bank account related local qa apis"
+  message: "welcome to eazy bank account related local qa ssapis"
   contact-details:
     name: "pavan sai"
     email: "hanok@gmail QA-Lead"
