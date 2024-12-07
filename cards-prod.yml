@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "welcome to rest apis for cards prod service"
+  message: "welcome to rest apis for cards web hook service"
   contact-details:
     name: "pavan sai"
     gmail: "production@gmail.com"
